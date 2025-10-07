@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.example.com
+mx: evolvesigns-com01e.mail.protection.outlook.com
 max_age: 7565611
